@@ -2,6 +2,22 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "nqQuestionnaires",
+      "thumb": "ngQuestionnaires/thumb.png",
+      "desc": "ngQuestionnaires is a demo questionnaire app that uses Firebase",
+      "url": "http://gwhn.github.io/nqQuestionnaires/",
+      "src": "https://github.com/gwhn/ngQuestionnaires",
+      "submitter": "gwhn",
+      "submissionDate": "2013-11-01",
+      "tags": [
+        "Demo",
+        "CRUD",
+        "Firebase", "Bootstrap", "AngularUI", "D3js",
+        "No jQuery",
+        "Open Source"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
